@@ -1,0 +1,19 @@
+{
+  "name": "45sim-calw_513ag",
+  "version": "1.0.1",
+  "description": "We will be creating simple calculator which contain some arthimetic operation.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agha Faseeh",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
